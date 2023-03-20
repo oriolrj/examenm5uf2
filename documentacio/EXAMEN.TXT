@@ -37,4 +37,13 @@ git branch nousforms;
 git checkout nousforms;
 git add.;
 git commit -m "Cinquena Versió afegim branca nousforms i creem dos forms perquè s'obrin amb els botons";
-git push origin master;
+git push origin nousforms;
+
+-- VERSIO 6 --
+creo al git una branca que es digui ampliacio;
+pujo l'arxiu AMPLIACIO.TXT;
+git fetch;
+git checkout -b ampliacio;
+git pull origin ampliacio;
+
+
