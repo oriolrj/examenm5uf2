@@ -19,3 +19,9 @@ nano LICENSE;
 git add .;
 git commit -m "Segona Versió";
 git push origin master;
+
+-- VERSIO 3 --
+afegeixo projecte c#;
+git add .;
+git commit -m "Tercera Versió Projecte C#";
+git push origin master;
