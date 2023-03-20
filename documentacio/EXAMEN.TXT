@@ -31,3 +31,29 @@ afegeixo els botons i canvio el nom del form;
 git add .;
 git commit -m "Quarta Versió afegim botons i canviem nom FrmMain";
 git push origin master;
+
+-- VERSIO 5 --
+git branch nousforms;
+git checkout nousforms;
+git add.;
+git commit -m "Cinquena Versió afegim branca nousforms i creem dos forms perquè s'obrin amb els botons";
+git push origin nousforms;
+
+-- VERSIO 6 --
+creo al git una branca que es digui ampliacio;
+pujo l'arxiu AMPLIACIO.TXT;
+git fetch;
+git checkout -b ampliacio;
+git pull origin ampliacio;
+
+-- VERSIO 7 --
+git checkout master;
+git merge ampliacio;
+git push origin master;
+gt merge nousforms;
+git push origin master;
+
+-- VERSIO 8 --
+git add "EXAMEN.TXT";
+git commit -m "Vuitena Versió pujem EXAMEN.TXT";
+git push origin master
