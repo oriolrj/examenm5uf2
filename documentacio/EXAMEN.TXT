@@ -12,3 +12,10 @@ cd documentacio;
 nano EXAMEN.TXT;
 git add .;
 git commit -m "Primera Versió";
+git push origin master;
+
+-- VERSIO 2 --
+nano LICENSE;
+git add .;
+git commit -m "Segona Versió";
+git push origin master;
