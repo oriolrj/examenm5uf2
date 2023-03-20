@@ -25,3 +25,9 @@ afegeixo projecte c#;
 git add .;
 git commit -m "Tercera Versió Projecte C#";
 git push origin master;
+
+-- VERSIO 4 --
+afegeixo els botons i canvio el nom del form;
+git add .;
+git commit -m "Quarta Versió afegim botons i canviem nom FrmMain";
+git push origin master;
