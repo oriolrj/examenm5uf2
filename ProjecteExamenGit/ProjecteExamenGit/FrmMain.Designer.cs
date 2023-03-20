@@ -28,35 +28,37 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.button1 = new System.Windows.Forms.Button();
-            this.button2 = new System.Windows.Forms.Button();
+            this.btnGroc = new System.Windows.Forms.Button();
+            this.btnVerd = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
-            // button1
+            // btnGroc
             // 
-            this.button1.Location = new System.Drawing.Point(374, 105);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(75, 23);
-            this.button1.TabIndex = 0;
-            this.button1.Text = "Groc";
-            this.button1.UseVisualStyleBackColor = true;
+            this.btnGroc.Location = new System.Drawing.Point(374, 105);
+            this.btnGroc.Name = "btnGroc";
+            this.btnGroc.Size = new System.Drawing.Size(75, 23);
+            this.btnGroc.TabIndex = 0;
+            this.btnGroc.Text = "Groc";
+            this.btnGroc.UseVisualStyleBackColor = true;
+            this.btnGroc.Click += new System.EventHandler(this.btnGroc_Click);
             // 
-            // button2
+            // btnVerd
             // 
-            this.button2.Location = new System.Drawing.Point(363, 214);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(75, 23);
-            this.button2.TabIndex = 1;
-            this.button2.Text = "Verd";
-            this.button2.UseVisualStyleBackColor = true;
+            this.btnVerd.Location = new System.Drawing.Point(363, 214);
+            this.btnVerd.Name = "btnVerd";
+            this.btnVerd.Size = new System.Drawing.Size(75, 23);
+            this.btnVerd.TabIndex = 1;
+            this.btnVerd.Text = "Verd";
+            this.btnVerd.UseVisualStyleBackColor = true;
+            this.btnVerd.Click += new System.EventHandler(this.btnVerd_Click);
             // 
             // FrmMain
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Controls.Add(this.button2);
-            this.Controls.Add(this.button1);
+            this.Controls.Add(this.btnVerd);
+            this.Controls.Add(this.btnGroc);
             this.Name = "FrmMain";
             this.Text = "Form1";
             this.ResumeLayout(false);
@@ -65,8 +67,8 @@
 
         #endregion
 
-        private System.Windows.Forms.Button button1;
-        private System.Windows.Forms.Button button2;
+        private System.Windows.Forms.Button btnGroc;
+        private System.Windows.Forms.Button btnVerd;
     }
 }
 

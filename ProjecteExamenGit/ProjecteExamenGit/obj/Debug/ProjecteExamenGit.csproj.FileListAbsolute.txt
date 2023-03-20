@@ -1,0 +1,13 @@
+C:\Users\Oriol\examenm5uf2\ProjecteExamenGit\ProjecteExamenGit\bin\Debug\ProjecteExamenGit.exe.config
+C:\Users\Oriol\examenm5uf2\ProjecteExamenGit\ProjecteExamenGit\bin\Debug\ProjecteExamenGit.exe
+C:\Users\Oriol\examenm5uf2\ProjecteExamenGit\ProjecteExamenGit\bin\Debug\ProjecteExamenGit.pdb
+C:\Users\Oriol\examenm5uf2\ProjecteExamenGit\ProjecteExamenGit\obj\Debug\ProjecteExamenGit.csproj.AssemblyReference.cache
+C:\Users\Oriol\examenm5uf2\ProjecteExamenGit\ProjecteExamenGit\obj\Debug\ProjecteExamenGit.csproj.SuggestedBindingRedirects.cache
+C:\Users\Oriol\examenm5uf2\ProjecteExamenGit\ProjecteExamenGit\obj\Debug\ProjecteExamenGit.FrmGroc.resources
+C:\Users\Oriol\examenm5uf2\ProjecteExamenGit\ProjecteExamenGit\obj\Debug\ProjecteExamenGit.FrmMain.resources
+C:\Users\Oriol\examenm5uf2\ProjecteExamenGit\ProjecteExamenGit\obj\Debug\ProjecteExamenGit.FrmVerd.resources
+C:\Users\Oriol\examenm5uf2\ProjecteExamenGit\ProjecteExamenGit\obj\Debug\ProjecteExamenGit.Properties.Resources.resources
+C:\Users\Oriol\examenm5uf2\ProjecteExamenGit\ProjecteExamenGit\obj\Debug\ProjecteExamenGit.csproj.GenerateResource.cache
+C:\Users\Oriol\examenm5uf2\ProjecteExamenGit\ProjecteExamenGit\obj\Debug\ProjecteExamenGit.csproj.CoreCompileInputs.cache
+C:\Users\Oriol\examenm5uf2\ProjecteExamenGit\ProjecteExamenGit\obj\Debug\ProjecteExamenGit.exe
+C:\Users\Oriol\examenm5uf2\ProjecteExamenGit\ProjecteExamenGit\obj\Debug\ProjecteExamenGit.pdb

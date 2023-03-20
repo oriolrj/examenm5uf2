@@ -31,3 +31,10 @@ afegeixo els botons i canvio el nom del form;
 git add .;
 git commit -m "Quarta Versió afegim botons i canviem nom FrmMain";
 git push origin master;
+
+-- VERSIO 5 --
+git branch nousforms;
+git checkout nousforms;
+git add.;
+git commit -m "Cinquena Versió afegim branca nousforms i creem dos forms perquè s'obrin amb els botons";
+git push origin master;
